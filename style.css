@@ -1,15 +1,17 @@
+<<<<<<< HEAD
 .composition{
     height: 40px;
     width: 70px;
     background: url(img/bg.jpg)
 }
-bg{
+.bg{
     z-index: 5%;
     width: 10px;
     height: 40px;
 
 }
-planet-1{
+.planet-1{
     z-index: 10px;
-    x
+    transform: rotateX(120%)
+
 }
