@@ -1,6 +1,19 @@
-*{
-    width: 300%;
+.composition{
+
 }
+.composition bg{
+
+}
+.composition asteroid{
+
+}
+.composition planet-1{}
+.composition planet-2{}
+.composition planet-3{}
 .composition spaceship{
-    z-index: 300px
+
 }
+.composition ufo{
+
+}
+.composition superman{}
